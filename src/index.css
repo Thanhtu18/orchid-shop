@@ -1,0 +1,6 @@
+body {
+  margin: 0;
+  background-color: #ffffff;
+  font-family: 'Segoe UI', sans-serif;
+  transition: background 0.3s, color 0.3s;
+}
