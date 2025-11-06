@@ -57,8 +57,31 @@ function About() {
         <Divider style={{ margin: '32px 0' }} />
 
         <Box style={{ textAlign: 'center' }}>
-          <Typography variant="h6" color="primary" style={{ fontStyle: 'italic' }}>
+          <Typography variant="h6" color="primary" style={{ fontStyle: 'italic', marginBottom: '24px' }}>
             "Hãy để hoa lan mang đến niềm vui và bình an cho cuộc sống của bạn"
+          </Typography>
+          
+          <Divider style={{ margin: '24px 0' }} />
+          
+          <Typography variant="h6" color="secondary" style={{ marginBottom: '16px', fontWeight: '500' }}>
+            👨‍💻 Được phát triển bởi:
+          </Typography>
+          <Typography variant="body1" style={{ marginBottom: '8px', fontWeight: '500' }}>
+            ĐẶNG THANH TÚ
+          </Typography>
+          <Typography variant="body2" color="text.secondary" style={{ marginBottom: '8px' }}>
+            📧 tudtse184093@fpt.edu.vn | dangthanhtu110104@gmail.com
+          </Typography>
+          <Typography variant="body2" color="text.secondary" style={{ marginBottom: '8px' }}>
+            📱 0799747272
+          </Typography>
+          <Typography variant="body2" color="text.secondary" style={{ marginBottom: '8px' }}>
+            📍 Biên Hòa - Đồng Nai
+          </Typography>
+          <Typography variant="body2" color="text.secondary">
+            🔗 <a href="https://github.com/Thanhtu18" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit' }}>
+              GitHub: https://github.com/Thanhtu18
+            </a>
           </Typography>
         </Box>
       </Paper>

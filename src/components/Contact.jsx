@@ -90,19 +90,19 @@ function Contact() {
     {
       icon: <EmailIcon />,
       title: "Gửi Email",
-      content: "orchids@quangminh.com",
+      content: "tudtse184093@fpt.edu.vn, dangthanhtu110104@gmail.com",
       description: "Chúng tôi phản hồi trong vòng 24 giờ"
     },
     {
       icon: <PhoneIcon />,
       title: "Gọi Điện",
-      content: "+84 0772484840",
+      content: "0799747272",
       description: "Thứ 2-6, 9AM-6PM (GMT+7)"
     },
     {
       icon: <LocationIcon />,
       title: "Ghé Thăm",
-      content: "123 Vườn Hoa Lan, TP. Hồ Chí Minh, Việt Nam",
+      content: "Biên Hòa - Đồng Nai",
       description: "Nhà kính của chúng tôi mở cửa đón khách tham quan"
     }
   ];
@@ -346,13 +346,14 @@ function Contact() {
         <Grid container spacing={3}>
           <Grid item xs={12} md={6}>
             <Typography variant="body1" paragraph>
-              Nhà kính và cơ sở nghiên cứu hoa lan của chúng tôi tọa lạc tại trung tâm thành phố Hồ Chí Minh. 
+              Nhà kính và cơ sở nghiên cứu hoa lan của chúng tôi tọa lạc tại Biên Hòa - Đồng Nai. 
               Chúng tôi hoan nghênh khách tham quan theo lịch hẹn để xem bộ sưu tập và học về cách trồng hoa lan.
             </Typography>
             <Typography variant="body2" color="text.secondary">
-              <strong>Địa chỉ:</strong> 123 Vườn Hoa Lan, Quận 1, TP. Hồ Chí Minh, Việt Nam<br />
+              <strong>Địa chỉ:</strong> Biên Hòa - Đồng Nai<br />
               <strong>Giờ mở cửa:</strong> Thứ Hai - Thứ Sáu: 9:00 AM - 6:00 PM<br />
-              <strong>Cuối tuần:</strong> Chỉ theo lịch hẹn
+              <strong>Cuối tuần:</strong> Chỉ theo lịch hẹn<br />
+              <strong>GitHub:</strong> <a href="https://github.com/Thanhtu18" target="_blank" rel="noopener noreferrer">https://github.com/Thanhtu18</a>
             </Typography>
           </Grid>
           <Grid item xs={12} md={6}>

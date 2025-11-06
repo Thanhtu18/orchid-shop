@@ -67,7 +67,7 @@ function Navbar() {
               letterSpacing: '1px'
             }}
           >
-            Orchids Quang Minh🌸
+            Orchids ThanhTu🌸
           </Typography>
         </Box>
 
